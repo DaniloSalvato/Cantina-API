@@ -21,4 +21,6 @@ Os perfis ambiente podem ser : <br />
 Program arguments: --spring.profiles.active=prod,
 ou apenas "prod" dependendo da sua Ide.
 
+-------------------------------------
 
+Junto Da aplicação temos um arquivo do postman contendo os endpoints da aplicação
